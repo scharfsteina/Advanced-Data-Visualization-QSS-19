@@ -1,0 +1,30 @@
+On-Time: Marketing Carrier On-Time Performance (Beginning January 2018)
+Sum : Cancelled Flight Indicator (1=Yes) by Operating_Airline  by Month for 2020
+,,1,2,3,4,5,6,7,8,9,10,11,12,All Columns
+,,January   ,February  ,March     ,April     ,May       ,June      ,July      ,August    ,September ,October   ,November  ,December  ,All Columns (including those not displayed)
+9E,Endeavor Air Inc.,76,79,3438,1916,860,143,17,169,46,28,2,166,6940
+AA,American Airlines Inc.,685,725,15282,16574,21,8,307,198,169,38,45,210,34262
+AS,Alaska Airlines Inc.,272,176,2951,1426,39,120,64,45,61,39,124,164,5481
+AX,Trans States Airlines,200,181,1224,13,-,-,-,-,-,-,-,-,1618
+B6,JetBlue Airways,18,28,4419,2464,212,40,289,230,58,17,78,129,7982
+C5,CommuteAir LLC dba CommuteAir,78,43,805,350,41,3,31,45,22,47,11,47,1523
+CP,Alis Cargo Airlines S.P.A.,7,0,689,497,-,-,-,-,-,-,-,-,1193
+DL,Delta Air Lines Inc.,41,18,19657,6894,23,10,479,114,76,46,845,566,28769
+EM,Empire Airlines Inc.,83,44,146,2,2,4,16,6,9,27,4,0,343
+EV,ExpressJet Airlines LLC d/b/a aha!,147,78,2087,1334,103,6,22,197,48,-,-,-,4022
+F9,Frontier Airlines Inc.,145,107,2766,1304,5,5,238,44,8,20,13,36,4691
+G4,Allegiant Air,86,24,2898,5298,5166,134,84,257,80,60,57,152,14296
+G7,GoJet Airlines LLC d/b/a United Express,202,95,895,783,71,4,4,81,57,14,10,105,2321
+HA,Hawaiian Airlines Inc.,17,32,618,288,2,1,119,260,3,734,14,56,2144
+MQ,Envoy Air,834,445,3654,5563,124,2,64,93,105,104,24,182,11194
+NK,Spirit Air Lines,119,59,1458,1099,0,0,8,63,0,2,20,136,2964
+OH,PSA Airlines Inc.,262,1046,3585,8657,135,21,33,117,122,44,13,64,14099
+OO,SkyWest Airlines Inc.,1434,803,7932,11115,1622,133,172,267,389,388,87,539,24881
+PT,Piedmont Airlines,279,367,1420,3251,37,7,43,47,6,3,5,40,5505
+QX,Horizon Air,407,98,1217,920,407,190,42,154,580,54,135,166,4370
+UA,United Air Lines Inc.,297,94,12355,8862,151,5,59,288,53,56,57,316,22593
+WN,Southwest Airlines Co.,1921,1109,19871,48707,2697,172,572,1052,443,209,454,635,77842
+YV,Mesa Airlines Inc.,295,87,3011,3691,218,5,84,296,102,22,23,140,7974
+YX,Republic Airline,250,188,4194,4885,191,6,172,227,15,18,59,311,10516
+ZW,Air Wisconsin Airlines Corp,261,169,1704,955,134,11,7,77,71,24,26,93,3532
+All Rows,All Rows (including those not displayed),8416,6095,118276,136848,12261,1030,2926,4327,2523,1994,2106,4253,301055

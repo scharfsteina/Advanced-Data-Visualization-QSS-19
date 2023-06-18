@@ -1,0 +1,2037 @@
+Latest available 2023 data is February  
+DEST_STATE_ABR, Description, Year,Sum(FLIGHTS)
+"-","Unknown","1987",5986
+"-","Unknown","1988",26112
+"-","Unknown","1989",25561
+"-","Unknown","1990",135
+"-","Unknown","1991",
+"-","Unknown","1992",
+"-","Unknown","1993",
+"-","Unknown","1994",
+"-","Unknown","1995",
+"-","Unknown","1996",
+"-","Unknown","1997",
+"-","Unknown","1998",
+"-","Unknown","1999",
+"-","Unknown","2000",
+"-","Unknown","2001",
+"-","Unknown","2002",
+"-","Unknown","2003",
+"-","Unknown","2004",
+"-","Unknown","2005",
+"-","Unknown","2006",
+"-","Unknown","2007",
+"-","Unknown","2008",
+"-","Unknown","2009",
+"-","Unknown","2010",
+"-","Unknown","2011",
+"-","Unknown","2012",
+"-","Unknown","2013",
+"-","Unknown","2014",
+"-","Unknown","2015",
+"-","Unknown","2016",
+"-","Unknown","2017",
+"-","Unknown","2018",
+"-","Unknown","2019",
+"-","Unknown","2020",
+"-","Unknown","2021",
+"-","Unknown","2022",
+"-","Unknown","2023",
+"AK","Alaska","1987",6779
+"AK","Alaska","1988",29538
+"AK","Alaska","1989",29059
+"AK","Alaska","1990",30833
+"AK","Alaska","1991",32295
+"AK","Alaska","1992",36123
+"AK","Alaska","1993",35626
+"AK","Alaska","1994",37828
+"AK","Alaska","1995",41584
+"AK","Alaska","1996",43294
+"AK","Alaska","1997",42267
+"AK","Alaska","1998",43830
+"AK","Alaska","1999",44043
+"AK","Alaska","2000",43701
+"AK","Alaska","2001",44442
+"AK","Alaska","2002",44828
+"AK","Alaska","2003",44281
+"AK","Alaska","2004",43147
+"AK","Alaska","2005",43009
+"AK","Alaska","2006",41917
+"AK","Alaska","2007",41760
+"AK","Alaska","2008",40969
+"AK","Alaska","2009",38277
+"AK","Alaska","2010",38881
+"AK","Alaska","2011",39371
+"AK","Alaska","2012",38581
+"AK","Alaska","2013",39199
+"AK","Alaska","2014",35399
+"AK","Alaska","2015",35981
+"AK","Alaska","2016",36144
+"AK","Alaska","2017",36397
+"AK","Alaska","2018",38838
+"AK","Alaska","2019",39805
+"AK","Alaska","2020",26901
+"AK","Alaska","2021",39048
+"AK","Alaska","2022",41625
+"AK","Alaska","2023",5124
+"AL","Alabama","1987",9032
+"AL","Alabama","1988",36143
+"AL","Alabama","1989",33855
+"AL","Alabama","1990",37166
+"AL","Alabama","1991",33802
+"AL","Alabama","1992",34269
+"AL","Alabama","1993",33343
+"AL","Alabama","1994",32313
+"AL","Alabama","1995",32947
+"AL","Alabama","1996",31084
+"AL","Alabama","1997",31545
+"AL","Alabama","1998",31609
+"AL","Alabama","1999",32386
+"AL","Alabama","2000",30996
+"AL","Alabama","2001",27740
+"AL","Alabama","2002",22896
+"AL","Alabama","2003",36430
+"AL","Alabama","2004",45641
+"AL","Alabama","2005",43825
+"AL","Alabama","2006",37470
+"AL","Alabama","2007",45255
+"AL","Alabama","2008",46058
+"AL","Alabama","2009",44334
+"AL","Alabama","2010",45434
+"AL","Alabama","2011",39301
+"AL","Alabama","2012",36584
+"AL","Alabama","2013",35851
+"AL","Alabama","2014",30830
+"AL","Alabama","2015",28885
+"AL","Alabama","2016",25104
+"AL","Alabama","2017",22288
+"AL","Alabama","2018",38973
+"AL","Alabama","2019",39868
+"AL","Alabama","2020",24263
+"AL","Alabama","2021",28078
+"AL","Alabama","2022",28169
+"AL","Alabama","2023",4094
+"AR","Arkansas","1987",3631
+"AR","Arkansas","1988",14823
+"AR","Arkansas","1989",14754
+"AR","Arkansas","1990",14595
+"AR","Arkansas","1991",15459
+"AR","Arkansas","1992",16109
+"AR","Arkansas","1993",16241
+"AR","Arkansas","1994",17111
+"AR","Arkansas","1995",16651
+"AR","Arkansas","1996",13914
+"AR","Arkansas","1997",13515
+"AR","Arkansas","1998",13298
+"AR","Arkansas","1999",13036
+"AR","Arkansas","2000",13556
+"AR","Arkansas","2001",26255
+"AR","Arkansas","2002",22950
+"AR","Arkansas","2003",30593
+"AR","Arkansas","2004",34809
+"AR","Arkansas","2005",36926
+"AR","Arkansas","2006",31377
+"AR","Arkansas","2007",34983
+"AR","Arkansas","2008",33667
+"AR","Arkansas","2009",34958
+"AR","Arkansas","2010",36542
+"AR","Arkansas","2011",30707
+"AR","Arkansas","2012",31511
+"AR","Arkansas","2013",31896
+"AR","Arkansas","2014",27904
+"AR","Arkansas","2015",24905
+"AR","Arkansas","2016",16179
+"AR","Arkansas","2017",13870
+"AR","Arkansas","2018",29084
+"AR","Arkansas","2019",31802
+"AR","Arkansas","2020",19210
+"AR","Arkansas","2021",20994
+"AR","Arkansas","2022",23560
+"AR","Arkansas","2023",3606
+"AZ","Arizona","1987",36587
+"AZ","Arizona","1988",146754
+"AZ","Arizona","1989",155196
+"AZ","Arizona","1990",163432
+"AZ","Arizona","1991",161250
+"AZ","Arizona","1992",157315
+"AZ","Arizona","1993",150559
+"AZ","Arizona","1994",156610
+"AZ","Arizona","1995",175704
+"AZ","Arizona","1996",181714
+"AZ","Arizona","1997",185332
+"AZ","Arizona","1998",189281
+"AZ","Arizona","1999",197050
+"AZ","Arizona","2000",209018
+"AZ","Arizona","2001",203860
+"AZ","Arizona","2002",190161
+"AZ","Arizona","2003",189575
+"AZ","Arizona","2004",189468
+"AZ","Arizona","2005",195329
+"AZ","Arizona","2006",245201
+"AZ","Arizona","2007",244719
+"AZ","Arizona","2008",231839
+"AZ","Arizona","2009",210873
+"AZ","Arizona","2010",209697
+"AZ","Arizona","2011",216890
+"AZ","Arizona","2012",209748
+"AZ","Arizona","2013",201509
+"AZ","Arizona","2014",181736
+"AZ","Arizona","2015",180046
+"AZ","Arizona","2016",179058
+"AZ","Arizona","2017",172935
+"AZ","Arizona","2018",200256
+"AZ","Arizona","2019",205021
+"AZ","Arizona","2020",144117
+"AZ","Arizona","2021",187192
+"AZ","Arizona","2022",191480
+"AZ","Arizona","2023",32684
+"CA","California","1987",153393
+"CA","California","1988",578842
+"CA","California","1989",566059
+"CA","California","1990",592242
+"CA","California","1991",571115
+"CA","California","1992",549113
+"CA","California","1993",537016
+"CA","California","1994",548341
+"CA","California","1995",633564
+"CA","California","1996",643000
+"CA","California","1997",649239
+"CA","California","1998",641802
+"CA","California","1999",656393
+"CA","California","2000",702219
+"CA","California","2001",736348
+"CA","California","2002",639605
+"CA","California","2003",796344
+"CA","California","2004",825765
+"CA","California","2005",827009
+"CA","California","2006",863678
+"CA","California","2007",893890
+"CA","California","2008",826932
+"CA","California","2009",736353
+"CA","California","2010",720471
+"CA","California","2011",730081
+"CA","California","2012",765749
+"CA","California","2013",755926
+"CA","California","2014",739170
+"CA","California","2015",707762
+"CA","California","2016",727407
+"CA","California","2017",756452
+"CA","California","2018",793351
+"CA","California","2019",814867
+"CA","California","2020",467478
+"CA","California","2021",592070
+"CA","California","2022",733066
+"CA","California","2023",112275
+"CO","Colorado","1987",47684
+"CO","Colorado","1988",178769
+"CO","Colorado","1989",154456
+"CO","Colorado","1990",154339
+"CO","Colorado","1991",156045
+"CO","Colorado","1992",163154
+"CO","Colorado","1993",174766
+"CO","Colorado","1994",155293
+"CO","Colorado","1995",144037
+"CO","Colorado","1996",149853
+"CO","Colorado","1997",153537
+"CO","Colorado","1998",151053
+"CO","Colorado","1999",150239
+"CO","Colorado","2000",152124
+"CO","Colorado","2001",146101
+"CO","Colorado","2002",131316
+"CO","Colorado","2003",163434
+"CO","Colorado","2004",177172
+"CO","Colorado","2005",207394
+"CO","Colorado","2006",271787
+"CO","Colorado","2007",282445
+"CO","Colorado","2008",280839
+"CO","Colorado","2009",270777
+"CO","Colorado","2010",271847
+"CO","Colorado","2011",274450
+"CO","Colorado","2012",265654
+"CO","Colorado","2013",250555
+"CO","Colorado","2014",247478
+"CO","Colorado","2015",234674
+"CO","Colorado","2016",248098
+"CO","Colorado","2017",244926
+"CO","Colorado","2018",265773
+"CO","Colorado","2019",282469
+"CO","Colorado","2020",222467
+"CO","Colorado","2021",298192
+"CO","Colorado","2022",306643
+"CO","Colorado","2023",50087
+"CT","Connecticut","1987",7575
+"CT","Connecticut","1988",30628
+"CT","Connecticut","1989",28677
+"CT","Connecticut","1990",29058
+"CT","Connecticut","1991",29366
+"CT","Connecticut","1992",29660
+"CT","Connecticut","1993",26899
+"CT","Connecticut","1994",27450
+"CT","Connecticut","1995",26847
+"CT","Connecticut","1996",25920
+"CT","Connecticut","1997",26823
+"CT","Connecticut","1998",26446
+"CT","Connecticut","1999",31888
+"CT","Connecticut","2000",36495
+"CT","Connecticut","2001",35980
+"CT","Connecticut","2002",33221
+"CT","Connecticut","2003",33560
+"CT","Connecticut","2004",35215
+"CT","Connecticut","2005",38278
+"CT","Connecticut","2006",32886
+"CT","Connecticut","2007",32634
+"CT","Connecticut","2008",29445
+"CT","Connecticut","2009",23806
+"CT","Connecticut","2010",23999
+"CT","Connecticut","2011",22530
+"CT","Connecticut","2012",20972
+"CT","Connecticut","2013",22258
+"CT","Connecticut","2014",21780
+"CT","Connecticut","2015",20512
+"CT","Connecticut","2016",20322
+"CT","Connecticut","2017",22214
+"CT","Connecticut","2018",29345
+"CT","Connecticut","2019",29783
+"CT","Connecticut","2020",16707
+"CT","Connecticut","2021",20150
+"CT","Connecticut","2022",23486
+"CT","Connecticut","2023",3524
+"DE","Delaware","1987",29
+"DE","Delaware","1988",
+"DE","Delaware","1989",
+"DE","Delaware","1990",
+"DE","Delaware","1991",
+"DE","Delaware","1992",
+"DE","Delaware","1993",
+"DE","Delaware","1994",
+"DE","Delaware","1995",
+"DE","Delaware","1996",
+"DE","Delaware","1997",
+"DE","Delaware","1998",
+"DE","Delaware","1999",
+"DE","Delaware","2000",
+"DE","Delaware","2001",
+"DE","Delaware","2002",
+"DE","Delaware","2003",
+"DE","Delaware","2004",
+"DE","Delaware","2005",
+"DE","Delaware","2006",347
+"DE","Delaware","2007",452
+"DE","Delaware","2008",
+"DE","Delaware","2009",
+"DE","Delaware","2010",
+"DE","Delaware","2011",
+"DE","Delaware","2012",
+"DE","Delaware","2013",348
+"DE","Delaware","2014",711
+"DE","Delaware","2015",98
+"DE","Delaware","2016",
+"DE","Delaware","2017",
+"DE","Delaware","2018",
+"DE","Delaware","2019",
+"DE","Delaware","2020",
+"DE","Delaware","2021",118
+"DE","Delaware","2022",47
+"DE","Delaware","2023",
+"FL","Florida","1987",87928
+"FL","Florida","1988",358404
+"FL","Florida","1989",336017
+"FL","Florida","1990",370761
+"FL","Florida","1991",346106
+"FL","Florida","1992",350161
+"FL","Florida","1993",339544
+"FL","Florida","1994",344543
+"FL","Florida","1995",303213
+"FL","Florida","1996",301682
+"FL","Florida","1997",329314
+"FL","Florida","1998",332511
+"FL","Florida","1999",347932
+"FL","Florida","2000",362418
+"FL","Florida","2001",386436
+"FL","Florida","2002",330336
+"FL","Florida","2003",386699
+"FL","Florida","2004",433342
+"FL","Florida","2005",465098
+"FL","Florida","2006",454791
+"FL","Florida","2007",478803
+"FL","Florida","2008",467002
+"FL","Florida","2009",438978
+"FL","Florida","2010",450241
+"FL","Florida","2011",456213
+"FL","Florida","2012",446873
+"FL","Florida","2013",443169
+"FL","Florida","2014",428056
+"FL","Florida","2015",449248
+"FL","Florida","2016",447168
+"FL","Florida","2017",457505
+"FL","Florida","2018",561778
+"FL","Florida","2019",585448
+"FL","Florida","2020",405804
+"FL","Florida","2021",565554
+"FL","Florida","2022",588114
+"FL","Florida","2023",98203
+"GA","Georgia","1987",70915
+"GA","Georgia","1988",275631
+"GA","Georgia","1989",237854
+"GA","Georgia","1990",284877
+"GA","Georgia","1991",200962
+"GA","Georgia","1992",215123
+"GA","Georgia","1993",232262
+"GA","Georgia","1994",232644
+"GA","Georgia","1995",239604
+"GA","Georgia","1996",249292
+"GA","Georgia","1997",257757
+"GA","Georgia","1998",262326
+"GA","Georgia","1999",270012
+"GA","Georgia","2000",271488
+"GA","Georgia","2001",258220
+"GA","Georgia","2002",237553
+"GA","Georgia","2003",390139
+"GA","Georgia","2004",442312
+"GA","Georgia","2005",453311
+"GA","Georgia","2006",426332
+"GA","Georgia","2007",436186
+"GA","Georgia","2008",435791
+"GA","Georgia","2009",438024
+"GA","Georgia","2010",434204
+"GA","Georgia","2011",411439
+"GA","Georgia","2012",409664
+"GA","Georgia","2013",416251
+"GA","Georgia","2014",386052
+"GA","Georgia","2015",394412
+"GA","Georgia","2016",398518
+"GA","Georgia","2017",377223
+"GA","Georgia","2018",414817
+"GA","Georgia","2019",421785
+"GA","Georgia","2020",272951
+"GA","Georgia","2021",339422
+"GA","Georgia","2022",343980
+"GA","Georgia","2023",54290
+"HI","Hawaii","1987",4969
+"HI","Hawaii","1988",20204
+"HI","Hawaii","1989",21293
+"HI","Hawaii","1990",21555
+"HI","Hawaii","1991",20604
+"HI","Hawaii","1992",19101
+"HI","Hawaii","1993",17276
+"HI","Hawaii","1994",16422
+"HI","Hawaii","1995",15604
+"HI","Hawaii","1996",15930
+"HI","Hawaii","1997",15431
+"HI","Hawaii","1998",15508
+"HI","Hawaii","1999",15415
+"HI","Hawaii","2000",27985
+"HI","Hawaii","2001",68495
+"HI","Hawaii","2002",17644
+"HI","Hawaii","2003",27312
+"HI","Hawaii","2004",66412
+"HI","Hawaii","2005",69714
+"HI","Hawaii","2006",119547
+"HI","Hawaii","2007",134339
+"HI","Hawaii","2008",110146
+"HI","Hawaii","2009",111168
+"HI","Hawaii","2010",105048
+"HI","Hawaii","2011",102003
+"HI","Hawaii","2012",111786
+"HI","Hawaii","2013",108142
+"HI","Hawaii","2014",96499
+"HI","Hawaii","2015",99132
+"HI","Hawaii","2016",100815
+"HI","Hawaii","2017",104694
+"HI","Hawaii","2018",103682
+"HI","Hawaii","2019",115127
+"HI","Hawaii","2020",63767
+"HI","Hawaii","2021",105378
+"HI","Hawaii","2022",122965
+"HI","Hawaii","2023",20929
+"IA","Iowa","1987",6022
+"IA","Iowa","1988",21717
+"IA","Iowa","1989",19868
+"IA","Iowa","1990",17584
+"IA","Iowa","1991",17625
+"IA","Iowa","1992",16913
+"IA","Iowa","1993",14883
+"IA","Iowa","1994",13572
+"IA","Iowa","1995",15205
+"IA","Iowa","1996",15553
+"IA","Iowa","1997",14215
+"IA","Iowa","1998",13236
+"IA","Iowa","1999",12955
+"IA","Iowa","2000",12513
+"IA","Iowa","2001",17525
+"IA","Iowa","2002",14277
+"IA","Iowa","2003",15855
+"IA","Iowa","2004",18817
+"IA","Iowa","2005",19567
+"IA","Iowa","2006",23716
+"IA","Iowa","2007",31351
+"IA","Iowa","2008",27801
+"IA","Iowa","2009",25691
+"IA","Iowa","2010",21107
+"IA","Iowa","2011",18203
+"IA","Iowa","2012",18705
+"IA","Iowa","2013",25399
+"IA","Iowa","2014",18798
+"IA","Iowa","2015",18830
+"IA","Iowa","2016",12246
+"IA","Iowa","2017",13963
+"IA","Iowa","2018",27683
+"IA","Iowa","2019",29529
+"IA","Iowa","2020",19602
+"IA","Iowa","2021",25163
+"IA","Iowa","2022",25254
+"IA","Iowa","2023",3617
+"ID","Idaho","1987",1790
+"ID","Idaho","1988",8675
+"ID","Idaho","1989",8713
+"ID","Idaho","1990",8390
+"ID","Idaho","1991",7316
+"ID","Idaho","1992",7757
+"ID","Idaho","1993",6976
+"ID","Idaho","1994",7134
+"ID","Idaho","1995",11497
+"ID","Idaho","1996",13209
+"ID","Idaho","1997",12993
+"ID","Idaho","1998",12475
+"ID","Idaho","1999",11508
+"ID","Idaho","2000",12569
+"ID","Idaho","2001",12076
+"ID","Idaho","2002",10984
+"ID","Idaho","2003",25234
+"ID","Idaho","2004",25841
+"ID","Idaho","2005",27982
+"ID","Idaho","2006",27581
+"ID","Idaho","2007",29356
+"ID","Idaho","2008",27147
+"ID","Idaho","2009",22569
+"ID","Idaho","2010",22594
+"ID","Idaho","2011",22544
+"ID","Idaho","2012",18263
+"ID","Idaho","2013",18352
+"ID","Idaho","2014",18095
+"ID","Idaho","2015",18541
+"ID","Idaho","2016",21101
+"ID","Idaho","2017",22414
+"ID","Idaho","2018",25783
+"ID","Idaho","2019",25887
+"ID","Idaho","2020",20596
+"ID","Idaho","2021",34157
+"ID","Idaho","2022",34209
+"ID","Idaho","2023",4370
+"IL","Illinois","1987",75901
+"IL","Illinois","1988",304734
+"IL","Illinois","1989",296468
+"IL","Illinois","1990",302848
+"IL","Illinois","1991",325083
+"IL","Illinois","1992",316722
+"IL","Illinois","1993",330468
+"IL","Illinois","1994",332428
+"IL","Illinois","1995",343164
+"IL","Illinois","1996",342204
+"IL","Illinois","1997",343224
+"IL","Illinois","1998",342615
+"IL","Illinois","1999",351191
+"IL","Illinois","2000",352174
+"IL","Illinois","2001",398828
+"IL","Illinois","2002",385526
+"IL","Illinois","2003",462937
+"IL","Illinois","2004",482000
+"IL","Illinois","2005",447437
+"IL","Illinois","2006",495992
+"IL","Illinois","2007",495953
+"IL","Illinois","2008",461291
+"IL","Illinois","2009",420197
+"IL","Illinois","2010",417510
+"IL","Illinois","2011",416682
+"IL","Illinois","2012",412784
+"IL","Illinois","2013",414827
+"IL","Illinois","2014",391833
+"IL","Illinois","2015",418264
+"IL","Illinois","2016",340426
+"IL","Illinois","2017",362772
+"IL","Illinois","2018",440406
+"IL","Illinois","2019",443021
+"IL","Illinois","2020",263249
+"IL","Illinois","2021",320171
+"IL","Illinois","2022",352687
+"IL","Illinois","2023",53768
+"IN","Indiana","1987",11108
+"IN","Indiana","1988",46891
+"IN","Indiana","1989",49661
+"IN","Indiana","1990",51942
+"IN","Indiana","1991",49906
+"IN","Indiana","1992",50757
+"IN","Indiana","1993",44774
+"IN","Indiana","1994",46006
+"IN","Indiana","1995",44728
+"IN","Indiana","1996",39908
+"IN","Indiana","1997",40892
+"IN","Indiana","1998",38599
+"IN","Indiana","1999",37830
+"IN","Indiana","2000",37729
+"IN","Indiana","2001",43553
+"IN","Indiana","2002",36863
+"IN","Indiana","2003",55016
+"IN","Indiana","2004",59266
+"IN","Indiana","2005",59326
+"IN","Indiana","2006",48091
+"IN","Indiana","2007",61126
+"IN","Indiana","2008",60033
+"IN","Indiana","2009",53035
+"IN","Indiana","2010",51435
+"IN","Indiana","2011",39124
+"IN","Indiana","2012",39390
+"IN","Indiana","2013",46886
+"IN","Indiana","2014",40626
+"IN","Indiana","2015",42808
+"IN","Indiana","2016",39072
+"IN","Indiana","2017",40060
+"IN","Indiana","2018",67573
+"IN","Indiana","2019",67223
+"IN","Indiana","2020",43071
+"IN","Indiana","2021",49536
+"IN","Indiana","2022",53376
+"IN","Indiana","2023",8282
+"KS","Kansas","1987",3585
+"KS","Kansas","1988",11658
+"KS","Kansas","1989",12277
+"KS","Kansas","1990",12452
+"KS","Kansas","1991",11483
+"KS","Kansas","1992",11190
+"KS","Kansas","1993",10439
+"KS","Kansas","1994",7176
+"KS","Kansas","1995",7050
+"KS","Kansas","1996",7128
+"KS","Kansas","1997",7827
+"KS","Kansas","1998",7474
+"KS","Kansas","1999",6400
+"KS","Kansas","2000",6541
+"KS","Kansas","2001",7868
+"KS","Kansas","2002",5368
+"KS","Kansas","2003",10085
+"KS","Kansas","2004",10283
+"KS","Kansas","2005",11126
+"KS","Kansas","2006",12863
+"KS","Kansas","2007",14750
+"KS","Kansas","2008",14046
+"KS","Kansas","2009",13566
+"KS","Kansas","2010",13588
+"KS","Kansas","2011",11964
+"KS","Kansas","2012",12516
+"KS","Kansas","2013",13821
+"KS","Kansas","2014",12419
+"KS","Kansas","2015",11930
+"KS","Kansas","2016",8917
+"KS","Kansas","2017",9876
+"KS","Kansas","2018",15428
+"KS","Kansas","2019",16178
+"KS","Kansas","2020",11536
+"KS","Kansas","2021",13391
+"KS","Kansas","2022",14160
+"KS","Kansas","2023",2147
+"KY","Kentucky","1987",23907
+"KY","Kentucky","1988",93568
+"KY","Kentucky","1989",87468
+"KY","Kentucky","1990",89103
+"KY","Kentucky","1991",89938
+"KY","Kentucky","1992",92380
+"KY","Kentucky","1993",93118
+"KY","Kentucky","1994",96132
+"KY","Kentucky","1995",105774
+"KY","Kentucky","1996",115178
+"KY","Kentucky","1997",115093
+"KY","Kentucky","1998",108668
+"KY","Kentucky","1999",104003
+"KY","Kentucky","2000",99853
+"KY","Kentucky","2001",90361
+"KY","Kentucky","2002",81163
+"KY","Kentucky","2003",120204
+"KY","Kentucky","2004",241346
+"KY","Kentucky","2005",242783
+"KY","Kentucky","2006",155329
+"KY","Kentucky","2007",143450
+"KY","Kentucky","2008",124131
+"KY","Kentucky","2009",85453
+"KY","Kentucky","2010",77923
+"KY","Kentucky","2011",49989
+"KY","Kentucky","2012",49818
+"KY","Kentucky","2013",67428
+"KY","Kentucky","2014",41678
+"KY","Kentucky","2015",40283
+"KY","Kentucky","2016",31323
+"KY","Kentucky","2017",34656
+"KY","Kentucky","2018",83425
+"KY","Kentucky","2019",83130
+"KY","Kentucky","2020",49387
+"KY","Kentucky","2021",59190
+"KY","Kentucky","2022",66391
+"KY","Kentucky","2023",9894
+"LA","Louisiana","1987",15186
+"LA","Louisiana","1988",60438
+"LA","Louisiana","1989",59428
+"LA","Louisiana","1990",63738
+"LA","Louisiana","1991",57529
+"LA","Louisiana","1992",57019
+"LA","Louisiana","1993",55545
+"LA","Louisiana","1994",59988
+"LA","Louisiana","1995",60662
+"LA","Louisiana","1996",58959
+"LA","Louisiana","1997",58976
+"LA","Louisiana","1998",60886
+"LA","Louisiana","1999",60126
+"LA","Louisiana","2000",61337
+"LA","Louisiana","2001",65787
+"LA","Louisiana","2002",58421
+"LA","Louisiana","2003",80292
+"LA","Louisiana","2004",82259
+"LA","Louisiana","2005",69192
+"LA","Louisiana","2006",60692
+"LA","Louisiana","2007",69635
+"LA","Louisiana","2008",67171
+"LA","Louisiana","2009",61725
+"LA","Louisiana","2010",65325
+"LA","Louisiana","2011",61478
+"LA","Louisiana","2012",66809
+"LA","Louisiana","2013",75664
+"LA","Louisiana","2014",70992
+"LA","Louisiana","2015",71258
+"LA","Louisiana","2016",66642
+"LA","Louisiana","2017",66286
+"LA","Louisiana","2018",83146
+"LA","Louisiana","2019",86372
+"LA","Louisiana","2020",51204
+"LA","Louisiana","2021",55739
+"LA","Louisiana","2022",64682
+"LA","Louisiana","2023",10151
+"MA","Massachusetts","1987",25653
+"MA","Massachusetts","1988",102123
+"MA","Massachusetts","1989",94339
+"MA","Massachusetts","1990",95911
+"MA","Massachusetts","1991",92649
+"MA","Massachusetts","1992",95016
+"MA","Massachusetts","1993",95496
+"MA","Massachusetts","1994",99351
+"MA","Massachusetts","1995",92777
+"MA","Massachusetts","1996",93252
+"MA","Massachusetts","1997",98264
+"MA","Massachusetts","1998",98444
+"MA","Massachusetts","1999",107768
+"MA","Massachusetts","2000",113094
+"MA","Massachusetts","2001",134015
+"MA","Massachusetts","2002",110135
+"MA","Massachusetts","2003",115667
+"MA","Massachusetts","2004",132608
+"MA","Massachusetts","2005",128220
+"MA","Massachusetts","2006",131265
+"MA","Massachusetts","2007",128707
+"MA","Massachusetts","2008",118413
+"MA","Massachusetts","2009",111082
+"MA","Massachusetts","2010",113869
+"MA","Massachusetts","2011",110052
+"MA","Massachusetts","2012",103686
+"MA","Massachusetts","2013",112074
+"MA","Massachusetts","2014",111994
+"MA","Massachusetts","2015",119561
+"MA","Massachusetts","2016",122965
+"MA","Massachusetts","2017",127182
+"MA","Massachusetts","2018",150707
+"MA","Massachusetts","2019",153624
+"MA","Massachusetts","2020",75627
+"MA","Massachusetts","2021",93088
+"MA","Massachusetts","2022",141070
+"MA","Massachusetts","2023",21745
+"MD","Maryland","1987",16198
+"MD","Maryland","1988",67490
+"MD","Maryland","1989",70701
+"MD","Maryland","1990",69376
+"MD","Maryland","1991",62005
+"MD","Maryland","1992",50501
+"MD","Maryland","1993",52309
+"MD","Maryland","1994",71207
+"MD","Maryland","1995",66443
+"MD","Maryland","1996",62591
+"MD","Maryland","1997",64592
+"MD","Maryland","1998",69992
+"MD","Maryland","1999",81680
+"MD","Maryland","2000",91217
+"MD","Maryland","2001",99840
+"MD","Maryland","2002",86858
+"MD","Maryland","2003",99248
+"MD","Maryland","2004",106060
+"MD","Maryland","2005",106792
+"MD","Maryland","2006",107576
+"MD","Maryland","2007",109395
+"MD","Maryland","2008",104068
+"MD","Maryland","2009",101280
+"MD","Maryland","2010",105563
+"MD","Maryland","2011",104577
+"MD","Maryland","2012",103343
+"MD","Maryland","2013",100319
+"MD","Maryland","2014",90845
+"MD","Maryland","2015",94105
+"MD","Maryland","2016",96211
+"MD","Maryland","2017",101019
+"MD","Maryland","2018",106874
+"MD","Maryland","2019",104842
+"MD","Maryland","2020",71780
+"MD","Maryland","2021",75555
+"MD","Maryland","2022",86789
+"MD","Maryland","2023",14103
+"ME","Maine","1987",2209
+"ME","Maine","1988",9271
+"ME","Maine","1989",10439
+"ME","Maine","1990",10727
+"ME","Maine","1991",11231
+"ME","Maine","1992",10066
+"ME","Maine","1993",8925
+"ME","Maine","1994",7963
+"ME","Maine","1995",7044
+"ME","Maine","1996",7492
+"ME","Maine","1997",7837
+"ME","Maine","1998",7710
+"ME","Maine","1999",6102
+"ME","Maine","2000",6108
+"ME","Maine","2001",13554
+"ME","Maine","2002",10387
+"ME","Maine","2003",13858
+"ME","Maine","2004",16032
+"ME","Maine","2005",14809
+"ME","Maine","2006",11988
+"ME","Maine","2007",12475
+"ME","Maine","2008",9768
+"ME","Maine","2009",9133
+"ME","Maine","2010",8346
+"ME","Maine","2011",6331
+"ME","Maine","2012",6746
+"ME","Maine","2013",7809
+"ME","Maine","2014",5986
+"ME","Maine","2015",5553
+"ME","Maine","2016",6977
+"ME","Maine","2017",6791
+"ME","Maine","2018",16226
+"ME","Maine","2019",14918
+"ME","Maine","2020",8705
+"ME","Maine","2021",13414
+"ME","Maine","2022",15728
+"ME","Maine","2023",1953
+"MI","Michigan","1987",33560
+"MI","Michigan","1988",135659
+"MI","Michigan","1989",145582
+"MI","Michigan","1990",150709
+"MI","Michigan","1991",147193
+"MI","Michigan","1992",149325
+"MI","Michigan","1993",153481
+"MI","Michigan","1994",159568
+"MI","Michigan","1995",166756
+"MI","Michigan","1996",173247
+"MI","Michigan","1997",174799
+"MI","Michigan","1998",172347
+"MI","Michigan","1999",172767
+"MI","Michigan","2000",171306
+"MI","Michigan","2001",171937
+"MI","Michigan","2002",161123
+"MI","Michigan","2003",170379
+"MI","Michigan","2004",188509
+"MI","Michigan","2005",175497
+"MI","Michigan","2006",169241
+"MI","Michigan","2007",221156
+"MI","Michigan","2008",204130
+"MI","Michigan","2009",189750
+"MI","Michigan","2010",197946
+"MI","Michigan","2011",110965
+"MI","Michigan","2012",113433
+"MI","Michigan","2013",199349
+"MI","Michigan","2014",133267
+"MI","Michigan","2015",149307
+"MI","Michigan","2016",151805
+"MI","Michigan","2017",158360
+"MI","Michigan","2018",198473
+"MI","Michigan","2019",203415
+"MI","Michigan","2020",139085
+"MI","Michigan","2021",163622
+"MI","Michigan","2022",159670
+"MI","Michigan","2023",23772
+"MN","Minnesota","1987",24486
+"MN","Minnesota","1988",101230
+"MN","Minnesota","1989",104480
+"MN","Minnesota","1990",107760
+"MN","Minnesota","1991",111932
+"MN","Minnesota","1992",121030
+"MN","Minnesota","1993",128136
+"MN","Minnesota","1994",129834
+"MN","Minnesota","1995",141747
+"MN","Minnesota","1996",147131
+"MN","Minnesota","1997",142683
+"MN","Minnesota","1998",140189
+"MN","Minnesota","1999",146739
+"MN","Minnesota","2000",150539
+"MN","Minnesota","2001",146546
+"MN","Minnesota","2002",145954
+"MN","Minnesota","2003",147946
+"MN","Minnesota","2004",150856
+"MN","Minnesota","2005",141022
+"MN","Minnesota","2006",130124
+"MN","Minnesota","2007",162633
+"MN","Minnesota","2008",135830
+"MN","Minnesota","2009",124978
+"MN","Minnesota","2010",132346
+"MN","Minnesota","2011",106758
+"MN","Minnesota","2012",114929
+"MN","Minnesota","2013",155117
+"MN","Minnesota","2014",113085
+"MN","Minnesota","2015",129996
+"MN","Minnesota","2016",135827
+"MN","Minnesota","2017",142614
+"MN","Minnesota","2018",168217
+"MN","Minnesota","2019",170581
+"MN","Minnesota","2020",106628
+"MN","Minnesota","2021",129188
+"MN","Minnesota","2022",125961
+"MN","Minnesota","2023",19102
+"MO","Missouri","1987",46340
+"MO","Missouri","1988",177039
+"MO","Missouri","1989",170066
+"MO","Missouri","1990",176287
+"MO","Missouri","1991",170839
+"MO","Missouri","1992",174997
+"MO","Missouri","1993",189451
+"MO","Missouri","1994",210773
+"MO","Missouri","1995",233152
+"MO","Missouri","1996",235416
+"MO","Missouri","1997",235740
+"MO","Missouri","1998",236303
+"MO","Missouri","1999",237925
+"MO","Missouri","2000",233764
+"MO","Missouri","2001",228637
+"MO","Missouri","2002",193556
+"MO","Missouri","2003",164716
+"MO","Missouri","2004",127036
+"MO","Missouri","2005",130378
+"MO","Missouri","2006",129622
+"MO","Missouri","2007",141043
+"MO","Missouri","2008",132177
+"MO","Missouri","2009",118369
+"MO","Missouri","2010",117567
+"MO","Missouri","2011",115425
+"MO","Missouri","2012",115068
+"MO","Missouri","2013",117441
+"MO","Missouri","2014",106622
+"MO","Missouri","2015",102405
+"MO","Missouri","2016",102388
+"MO","Missouri","2017",105640
+"MO","Missouri","2018",134738
+"MO","Missouri","2019",136938
+"MO","Missouri","2020",87742
+"MO","Missouri","2021",95549
+"MO","Missouri","2022",113647
+"MO","Missouri","2023",17228
+"MS","Mississippi","1987",2861
+"MS","Mississippi","1988",10753
+"MS","Mississippi","1989",9842
+"MS","Mississippi","1990",9808
+"MS","Mississippi","1991",8324
+"MS","Mississippi","1992",7675
+"MS","Mississippi","1993",7278
+"MS","Mississippi","1994",5097
+"MS","Mississippi","1995",4946
+"MS","Mississippi","1996",6046
+"MS","Mississippi","1997",7201
+"MS","Mississippi","1998",9355
+"MS","Mississippi","1999",10303
+"MS","Mississippi","2000",10068
+"MS","Mississippi","2001",9986
+"MS","Mississippi","2002",7906
+"MS","Mississippi","2003",19433
+"MS","Mississippi","2004",19985
+"MS","Mississippi","2005",20812
+"MS","Mississippi","2006",20912
+"MS","Mississippi","2007",23220
+"MS","Mississippi","2008",22791
+"MS","Mississippi","2009",20680
+"MS","Mississippi","2010",20432
+"MS","Mississippi","2011",17379
+"MS","Mississippi","2012",15582
+"MS","Mississippi","2013",15369
+"MS","Mississippi","2014",13642
+"MS","Mississippi","2015",14292
+"MS","Mississippi","2016",10983
+"MS","Mississippi","2017",9569
+"MS","Mississippi","2018",14820
+"MS","Mississippi","2019",15639
+"MS","Mississippi","2020",10506
+"MS","Mississippi","2021",12660
+"MS","Mississippi","2022",13206
+"MS","Mississippi","2023",1923
+"MT","Montana","1987",5066
+"MT","Montana","1988",18688
+"MT","Montana","1989",17068
+"MT","Montana","1990",17289
+"MT","Montana","1991",17066
+"MT","Montana","1992",17111
+"MT","Montana","1993",17150
+"MT","Montana","1994",12671
+"MT","Montana","1995",12269
+"MT","Montana","1996",12190
+"MT","Montana","1997",11911
+"MT","Montana","1998",10920
+"MT","Montana","1999",11180
+"MT","Montana","2000",11380
+"MT","Montana","2001",11348
+"MT","Montana","2002",10823
+"MT","Montana","2003",19180
+"MT","Montana","2004",26394
+"MT","Montana","2005",26970
+"MT","Montana","2006",22345
+"MT","Montana","2007",22837
+"MT","Montana","2008",20279
+"MT","Montana","2009",17831
+"MT","Montana","2010",18280
+"MT","Montana","2011",17153
+"MT","Montana","2012",16768
+"MT","Montana","2013",17139
+"MT","Montana","2014",17236
+"MT","Montana","2015",16136
+"MT","Montana","2016",17121
+"MT","Montana","2017",17433
+"MT","Montana","2018",20379
+"MT","Montana","2019",21531
+"MT","Montana","2020",19474
+"MT","Montana","2021",34609
+"MT","Montana","2022",28355
+"MT","Montana","2023",3773
+"NC","North Carolina","1987",49383
+"NC","North Carolina","1988",198722
+"NC","North Carolina","1989",201335
+"NC","North Carolina","1990",206218
+"NC","North Carolina","1991",206736
+"NC","North Carolina","1992",207083
+"NC","North Carolina","1993",200420
+"NC","North Carolina","1994",222660
+"NC","North Carolina","1995",199374
+"NC","North Carolina","1996",184044
+"NC","North Carolina","1997",176312
+"NC","North Carolina","1998",173025
+"NC","North Carolina","1999",174568
+"NC","North Carolina","2000",186994
+"NC","North Carolina","2001",186600
+"NC","North Carolina","2002",169614
+"NC","North Carolina","2003",177684
+"NC","North Carolina","2004",198782
+"NC","North Carolina","2005",207161
+"NC","North Carolina","2006",198716
+"NC","North Carolina","2007",221072
+"NC","North Carolina","2008",211800
+"NC","North Carolina","2009",194562
+"NC","North Carolina","2010",200453
+"NC","North Carolina","2011",193934
+"NC","North Carolina","2012",203206
+"NC","North Carolina","2013",221079
+"NC","North Carolina","2014",169923
+"NC","North Carolina","2015",160888
+"NC","North Carolina","2016",161388
+"NC","North Carolina","2017",162881
+"NC","North Carolina","2018",332388
+"NC","North Carolina","2019",341086
+"NC","North Carolina","2020",230968
+"NC","North Carolina","2021",276801
+"NC","North Carolina","2022",277516
+"NC","North Carolina","2023",42245
+"ND","North Dakota","1987",2683
+"ND","North Dakota","1988",9754
+"ND","North Dakota","1989",9697
+"ND","North Dakota","1990",9652
+"ND","North Dakota","1991",8767
+"ND","North Dakota","1992",9119
+"ND","North Dakota","1993",8441
+"ND","North Dakota","1994",5912
+"ND","North Dakota","1995",6265
+"ND","North Dakota","1996",6329
+"ND","North Dakota","1997",6142
+"ND","North Dakota","1998",6012
+"ND","North Dakota","1999",6195
+"ND","North Dakota","2000",5888
+"ND","North Dakota","2001",4841
+"ND","North Dakota","2002",5867
+"ND","North Dakota","2003",8066
+"ND","North Dakota","2004",8427
+"ND","North Dakota","2005",8224
+"ND","North Dakota","2006",9173
+"ND","North Dakota","2007",10755
+"ND","North Dakota","2008",9180
+"ND","North Dakota","2009",8610
+"ND","North Dakota","2010",12475
+"ND","North Dakota","2011",11953
+"ND","North Dakota","2012",13098
+"ND","North Dakota","2013",19114
+"ND","North Dakota","2014",15250
+"ND","North Dakota","2015",18112
+"ND","North Dakota","2016",12739
+"ND","North Dakota","2017",10959
+"ND","North Dakota","2018",17074
+"ND","North Dakota","2019",17147
+"ND","North Dakota","2020",14308
+"ND","North Dakota","2021",17175
+"ND","North Dakota","2022",16580
+"ND","North Dakota","2023",2714
+"NE","Nebraska","1987",5969
+"NE","Nebraska","1988",23026
+"NE","Nebraska","1989",22014
+"NE","Nebraska","1990",21557
+"NE","Nebraska","1991",20312
+"NE","Nebraska","1992",18229
+"NE","Nebraska","1993",18889
+"NE","Nebraska","1994",19069
+"NE","Nebraska","1995",21703
+"NE","Nebraska","1996",21573
+"NE","Nebraska","1997",20319
+"NE","Nebraska","1998",19454
+"NE","Nebraska","1999",19930
+"NE","Nebraska","2000",20037
+"NE","Nebraska","2001",20128
+"NE","Nebraska","2002",17582
+"NE","Nebraska","2003",22105
+"NE","Nebraska","2004",23629
+"NE","Nebraska","2005",25104
+"NE","Nebraska","2006",26014
+"NE","Nebraska","2007",32324
+"NE","Nebraska","2008",30041
+"NE","Nebraska","2009",28409
+"NE","Nebraska","2010",27839
+"NE","Nebraska","2011",24073
+"NE","Nebraska","2012",22943
+"NE","Nebraska","2013",26231
+"NE","Nebraska","2014",22837
+"NE","Nebraska","2015",21869
+"NE","Nebraska","2016",21349
+"NE","Nebraska","2017",22864
+"NE","Nebraska","2018",29147
+"NE","Nebraska","2019",31249
+"NE","Nebraska","2020",21479
+"NE","Nebraska","2021",24744
+"NE","Nebraska","2022",24633
+"NE","Nebraska","2023",3855
+"NH","New Hampshire","1987",528
+"NH","New Hampshire","1988",2795
+"NH","New Hampshire","1989",3371
+"NH","New Hampshire","1990",4561
+"NH","New Hampshire","1991",5253
+"NH","New Hampshire","1992",4755
+"NH","New Hampshire","1993",3895
+"NH","New Hampshire","1994",4338
+"NH","New Hampshire","1995",4628
+"NH","New Hampshire","1996",4345
+"NH","New Hampshire","1997",4897
+"NH","New Hampshire","1998",9468
+"NH","New Hampshire","1999",12943
+"NH","New Hampshire","2000",13734
+"NH","New Hampshire","2001",16110
+"NH","New Hampshire","2002",15211
+"NH","New Hampshire","2003",19243
+"NH","New Hampshire","2004",23875
+"NH","New Hampshire","2005",24843
+"NH","New Hampshire","2006",21267
+"NH","New Hampshire","2007",21358
+"NH","New Hampshire","2008",18582
+"NH","New Hampshire","2009",14775
+"NH","New Hampshire","2010",13882
+"NH","New Hampshire","2011",11516
+"NH","New Hampshire","2012",9199
+"NH","New Hampshire","2013",9965
+"NH","New Hampshire","2014",6753
+"NH","New Hampshire","2015",6871
+"NH","New Hampshire","2016",6715
+"NH","New Hampshire","2017",6177
+"NH","New Hampshire","2018",10026
+"NH","New Hampshire","2019",8561
+"NH","New Hampshire","2020",5578
+"NH","New Hampshire","2021",5241
+"NH","New Hampshire","2022",7086
+"NH","New Hampshire","2023",965
+"NJ","New Jersey","1987",31058
+"NJ","New Jersey","1988",126649
+"NJ","New Jersey","1989",114558
+"NJ","New Jersey","1990",118406
+"NJ","New Jersey","1991",114666
+"NJ","New Jersey","1992",117467
+"NJ","New Jersey","1993",114815
+"NJ","New Jersey","1994",117834
+"NJ","New Jersey","1995",109570
+"NJ","New Jersey","1996",118846
+"NJ","New Jersey","1997",121781
+"NJ","New Jersey","1998",120209
+"NJ","New Jersey","1999",125816
+"NJ","New Jersey","2000",124496
+"NJ","New Jersey","2001",120494
+"NJ","New Jersey","2002",102409
+"NJ","New Jersey","2003",150556
+"NJ","New Jersey","2004",159233
+"NJ","New Jersey","2005",156641
+"NJ","New Jersey","2006",159068
+"NJ","New Jersey","2007",155627
+"NJ","New Jersey","2008",138604
+"NJ","New Jersey","2009",119654
+"NJ","New Jersey","2010",115031
+"NJ","New Jersey","2011",112589
+"NJ","New Jersey","2012",120559
+"NJ","New Jersey","2013",121851
+"NJ","New Jersey","2014",113820
+"NJ","New Jersey","2015",118418
+"NJ","New Jersey","2016",121749
+"NJ","New Jersey","2017",121679
+"NJ","New Jersey","2018",149759
+"NJ","New Jersey","2019",142250
+"NJ","New Jersey","2020",72426
+"NJ","New Jersey","2021",95169
+"NJ","New Jersey","2022",135331
+"NJ","New Jersey","2023",23339
+"NM","New Mexico","1987",7784
+"NM","New Mexico","1988",31334
+"NM","New Mexico","1989",30610
+"NM","New Mexico","1990",31480
+"NM","New Mexico","1991",30042
+"NM","New Mexico","1992",31433
+"NM","New Mexico","1993",34210
+"NM","New Mexico","1994",35732
+"NM","New Mexico","1995",36865
+"NM","New Mexico","1996",37946
+"NM","New Mexico","1997",37608
+"NM","New Mexico","1998",36323
+"NM","New Mexico","1999",37281
+"NM","New Mexico","2000",36459
+"NM","New Mexico","2001",36229
+"NM","New Mexico","2002",36236
+"NM","New Mexico","2003",36707
+"NM","New Mexico","2004",37038
+"NM","New Mexico","2005",36953
+"NM","New Mexico","2006",37263
+"NM","New Mexico","2007",41400
+"NM","New Mexico","2008",42105
+"NM","New Mexico","2009",37067
+"NM","New Mexico","2010",35747
+"NM","New Mexico","2011",36715
+"NM","New Mexico","2012",33927
+"NM","New Mexico","2013",32062
+"NM","New Mexico","2014",28295
+"NM","New Mexico","2015",24287
+"NM","New Mexico","2016",21245
+"NM","New Mexico","2017",21612
+"NM","New Mexico","2018",27516
+"NM","New Mexico","2019",27666
+"NM","New Mexico","2020",17810
+"NM","New Mexico","2021",20394
+"NM","New Mexico","2022",23781
+"NM","New Mexico","2023",3682
+"NV","Nevada","1987",24863
+"NV","Nevada","1988",91450
+"NV","Nevada","1989",95642
+"NV","Nevada","1990",103519
+"NV","Nevada","1991",111416
+"NV","Nevada","1992",104210
+"NV","Nevada","1993",107618
+"NV","Nevada","1994",112851
+"NV","Nevada","1995",132923
+"NV","Nevada","1996",145090
+"NV","Nevada","1997",148446
+"NV","Nevada","1998",145686
+"NV","Nevada","1999",154663
+"NV","Nevada","2000",168459
+"NV","Nevada","2001",162055
+"NV","Nevada","2002",154547
+"NV","Nevada","2003",173763
+"NV","Nevada","2004",191373
+"NV","Nevada","2005",197696
+"NV","Nevada","2006",212971
+"NV","Nevada","2007",212714
+"NV","Nevada","2008",198724
+"NV","Nevada","2009",175245
+"NV","Nevada","2010",167346
+"NV","Nevada","2011",169075
+"NV","Nevada","2012",162204
+"NV","Nevada","2013",156944
+"NV","Nevada","2014",153365
+"NV","Nevada","2015",160638
+"NV","Nevada","2016",165517
+"NV","Nevada","2017",168163
+"NV","Nevada","2018",179827
+"NV","Nevada","2019",184741
+"NV","Nevada","2020",125963
+"NV","Nevada","2021",162968
+"NV","Nevada","2022",195348
+"NV","Nevada","2023",32995
+"NY","New York","1987",69422
+"NY","New York","1988",277685
+"NY","New York","1989",255828
+"NY","New York","1990",252464
+"NY","New York","1991",243835
+"NY","New York","1992",242887
+"NY","New York","1993",232723
+"NY","New York","1994",231737
+"NY","New York","1995",223650
+"NY","New York","1996",215110
+"NY","New York","1997",207585
+"NY","New York","1998",204726
+"NY","New York","1999",216242
+"NY","New York","2000",226086
+"NY","New York","2001",264041
+"NY","New York","2002",209726
+"NY","New York","2003",270504
+"NY","New York","2004",325046
+"NY","New York","2005",331604
+"NY","New York","2006",330848
+"NY","New York","2007",354313
+"NY","New York","2008",331281
+"NY","New York","2009",303826
+"NY","New York","2010",300328
+"NY","New York","2011",260649
+"NY","New York","2012",261534
+"NY","New York","2013",289544
+"NY","New York","2014",264324
+"NY","New York","2015",268222
+"NY","New York","2016",251900
+"NY","New York","2017",245346
+"NY","New York","2018",389551
+"NY","New York","2019",389421
+"NY","New York","2020",172684
+"NY","New York","2021",225189
+"NY","New York","2022",385244
+"NY","New York","2023",60848
+"OH","Ohio","1987",31490
+"OH","Ohio","1988",128360
+"OH","Ohio","1989",129022
+"OH","Ohio","1990",138045
+"OH","Ohio","1991",125585
+"OH","Ohio","1992",116130
+"OH","Ohio","1993",113278
+"OH","Ohio","1994",130394
+"OH","Ohio","1995",123716
+"OH","Ohio","1996",123057
+"OH","Ohio","1997",120386
+"OH","Ohio","1998",114329
+"OH","Ohio","1999",108530
+"OH","Ohio","2000",104418
+"OH","Ohio","2001",106931
+"OH","Ohio","2002",90400
+"OH","Ohio","2003",147241
+"OH","Ohio","2004",163208
+"OH","Ohio","2005",157012
+"OH","Ohio","2006",149026
+"OH","Ohio","2007",144158
+"OH","Ohio","2008",126197
+"OH","Ohio","2009",111481
+"OH","Ohio","2010",110491
+"OH","Ohio","2011",96943
+"OH","Ohio","2012",95597
+"OH","Ohio","2013",96854
+"OH","Ohio","2014",82027
+"OH","Ohio","2015",81234
+"OH","Ohio","2016",69059
+"OH","Ohio","2017",71222
+"OH","Ohio","2018",118942
+"OH","Ohio","2019",120792
+"OH","Ohio","2020",66819
+"OH","Ohio","2021",75951
+"OH","Ohio","2022",89037
+"OH","Ohio","2023",13729
+"OK","Oklahoma","1987",12753
+"OK","Oklahoma","1988",50196
+"OK","Oklahoma","1989",46781
+"OK","Oklahoma","1990",47215
+"OK","Oklahoma","1991",49022
+"OK","Oklahoma","1992",49849
+"OK","Oklahoma","1993",48035
+"OK","Oklahoma","1994",43810
+"OK","Oklahoma","1995",42869
+"OK","Oklahoma","1996",40024
+"OK","Oklahoma","1997",39596
+"OK","Oklahoma","1998",38864
+"OK","Oklahoma","1999",39181
+"OK","Oklahoma","2000",39867
+"OK","Oklahoma","2001",46871
+"OK","Oklahoma","2002",42297
+"OK","Oklahoma","2003",47818
+"OK","Oklahoma","2004",46041
+"OK","Oklahoma","2005",45000
+"OK","Oklahoma","2006",45837
+"OK","Oklahoma","2007",54443
+"OK","Oklahoma","2008",50975
+"OK","Oklahoma","2009",43102
+"OK","Oklahoma","2010",42311
+"OK","Oklahoma","2011",39646
+"OK","Oklahoma","2012",42051
+"OK","Oklahoma","2013",45231
+"OK","Oklahoma","2014",40491
+"OK","Oklahoma","2015",34528
+"OK","Oklahoma","2016",30829
+"OK","Oklahoma","2017",29437
+"OK","Oklahoma","2018",42336
+"OK","Oklahoma","2019",43426
+"OK","Oklahoma","2020",28340
+"OK","Oklahoma","2021",34141
+"OK","Oklahoma","2022",37678
+"OK","Oklahoma","2023",5898
+"OR","Oregon","1987",12157
+"OR","Oregon","1988",45139
+"OR","Oregon","1989",47133
+"OR","Oregon","1990",46755
+"OR","Oregon","1991",41505
+"OR","Oregon","1992",41348
+"OR","Oregon","1993",39936
+"OR","Oregon","1994",41212
+"OR","Oregon","1995",51556
+"OR","Oregon","1996",57159
+"OR","Oregon","1997",59144
+"OR","Oregon","1998",59372
+"OR","Oregon","1999",60424
+"OR","Oregon","2000",60933
+"OR","Oregon","2001",58402
+"OR","Oregon","2002",52952
+"OR","Oregon","2003",66239
+"OR","Oregon","2004",68417
+"OR","Oregon","2005",69425
+"OR","Oregon","2006",73997
+"OR","Oregon","2007",75477
+"OR","Oregon","2008",74209
+"OR","Oregon","2009",67706
+"OR","Oregon","2010",67944
+"OR","Oregon","2011",67097
+"OR","Oregon","2012",67038
+"OR","Oregon","2013",67041
+"OR","Oregon","2014",65458
+"OR","Oregon","2015",60971
+"OR","Oregon","2016",68263
+"OR","Oregon","2017",74106
+"OR","Oregon","2018",75967
+"OR","Oregon","2019",76104
+"OR","Oregon","2020",49539
+"OR","Oregon","2021",80713
+"OR","Oregon","2022",84290
+"OR","Oregon","2023",11383
+"PA","Pennsylvania","1987",53701
+"PA","Pennsylvania","1988",219333
+"PA","Pennsylvania","1989",205685
+"PA","Pennsylvania","1990",218677
+"PA","Pennsylvania","1991",217992
+"PA","Pennsylvania","1992",243782
+"PA","Pennsylvania","1993",237847
+"PA","Pennsylvania","1994",244569
+"PA","Pennsylvania","1995",237831
+"PA","Pennsylvania","1996",235831
+"PA","Pennsylvania","1997",244305
+"PA","Pennsylvania","1998",239315
+"PA","Pennsylvania","1999",233362
+"PA","Pennsylvania","2000",244015
+"PA","Pennsylvania","2001",241066
+"PA","Pennsylvania","2002",198338
+"PA","Pennsylvania","2003",188700
+"PA","Pennsylvania","2004",207470
+"PA","Pennsylvania","2005",196065
+"PA","Pennsylvania","2006",173280
+"PA","Pennsylvania","2007",172790
+"PA","Pennsylvania","2008",159083
+"PA","Pennsylvania","2009",143092
+"PA","Pennsylvania","2010",140473
+"PA","Pennsylvania","2011",129733
+"PA","Pennsylvania","2012",119547
+"PA","Pennsylvania","2013",129267
+"PA","Pennsylvania","2014",109574
+"PA","Pennsylvania","2015",109091
+"PA","Pennsylvania","2016",107598
+"PA","Pennsylvania","2017",112765
+"PA","Pennsylvania","2018",183340
+"PA","Pennsylvania","2019",188550
+"PA","Pennsylvania","2020",112194
+"PA","Pennsylvania","2021",129758
+"PA","Pennsylvania","2022",141981
+"PA","Pennsylvania","2023",21618
+"PR","Puerto Rico","1987",
+"PR","Puerto Rico","1988",
+"PR","Puerto Rico","1989",
+"PR","Puerto Rico","1990",18875
+"PR","Puerto Rico","1991",18200
+"PR","Puerto Rico","1992",19477
+"PR","Puerto Rico","1993",21499
+"PR","Puerto Rico","1994",20088
+"PR","Puerto Rico","1995",21815
+"PR","Puerto Rico","1996",19917
+"PR","Puerto Rico","1997",20076
+"PR","Puerto Rico","1998",20268
+"PR","Puerto Rico","1999",21411
+"PR","Puerto Rico","2000",25188
+"PR","Puerto Rico","2001",26825
+"PR","Puerto Rico","2002",24003
+"PR","Puerto Rico","2003",24526
+"PR","Puerto Rico","2004",27189
+"PR","Puerto Rico","2005",26655
+"PR","Puerto Rico","2006",27171
+"PR","Puerto Rico","2007",26074
+"PR","Puerto Rico","2008",23963
+"PR","Puerto Rico","2009",23486
+"PR","Puerto Rico","2010",24313
+"PR","Puerto Rico","2011",24441
+"PR","Puerto Rico","2012",26933
+"PR","Puerto Rico","2013",27952
+"PR","Puerto Rico","2014",28114
+"PR","Puerto Rico","2015",28783
+"PR","Puerto Rico","2016",29606
+"PR","Puerto Rico","2017",26907
+"PR","Puerto Rico","2018",27301
+"PR","Puerto Rico","2019",29962
+"PR","Puerto Rico","2020",20958
+"PR","Puerto Rico","2021",31401
+"PR","Puerto Rico","2022",33064
+"PR","Puerto Rico","2023",5717
+"RI","Rhode Island","1987",2944
+"RI","Rhode Island","1988",12293
+"RI","Rhode Island","1989",12866
+"RI","Rhode Island","1990",15290
+"RI","Rhode Island","1991",15525
+"RI","Rhode Island","1992",15409
+"RI","Rhode Island","1993",13105
+"RI","Rhode Island","1994",14071
+"RI","Rhode Island","1995",12536
+"RI","Rhode Island","1996",14122
+"RI","Rhode Island","1997",20463
+"RI","Rhode Island","1998",21741
+"RI","Rhode Island","1999",22937
+"RI","Rhode Island","2000",25984
+"RI","Rhode Island","2001",29789
+"RI","Rhode Island","2002",27146
+"RI","Rhode Island","2003",27947
+"RI","Rhode Island","2004",30441
+"RI","Rhode Island","2005",31294
+"RI","Rhode Island","2006",26634
+"RI","Rhode Island","2007",25381
+"RI","Rhode Island","2008",22500
+"RI","Rhode Island","2009",18340
+"RI","Rhode Island","2010",18991
+"RI","Rhode Island","2011",17100
+"RI","Rhode Island","2012",13902
+"RI","Rhode Island","2013",15390
+"RI","Rhode Island","2014",12152
+"RI","Rhode Island","2015",12157
+"RI","Rhode Island","2016",12688
+"RI","Rhode Island","2017",13757
+"RI","Rhode Island","2018",18729
+"RI","Rhode Island","2019",18156
+"RI","Rhode Island","2020",9453
+"RI","Rhode Island","2021",10552
+"RI","Rhode Island","2022",15285
+"RI","Rhode Island","2023",2343
+"SC","South Carolina","1987",9806
+"SC","South Carolina","1988",37734
+"SC","South Carolina","1989",32992
+"SC","South Carolina","1990",38556
+"SC","South Carolina","1991",30078
+"SC","South Carolina","1992",25378
+"SC","South Carolina","1993",24830
+"SC","South Carolina","1994",33042
+"SC","South Carolina","1995",26492
+"SC","South Carolina","1996",25796
+"SC","South Carolina","1997",23454
+"SC","South Carolina","1998",22200
+"SC","South Carolina","1999",20903
+"SC","South Carolina","2000",21469
+"SC","South Carolina","2001",19709
+"SC","South Carolina","2002",13531
+"SC","South Carolina","2003",37969
+"SC","South Carolina","2004",51377
+"SC","South Carolina","2005",47779
+"SC","South Carolina","2006",42784
+"SC","South Carolina","2007",48299
+"SC","South Carolina","2008",43364
+"SC","South Carolina","2009",38520
+"SC","South Carolina","2010",35669
+"SC","South Carolina","2011",32833
+"SC","South Carolina","2012",33496
+"SC","South Carolina","2013",37703
+"SC","South Carolina","2014",29884
+"SC","South Carolina","2015",31117
+"SC","South Carolina","2016",32020
+"SC","South Carolina","2017",30452
+"SC","South Carolina","2018",56697
+"SC","South Carolina","2019",63211
+"SC","South Carolina","2020",40403
+"SC","South Carolina","2021",60307
+"SC","South Carolina","2022",60861
+"SC","South Carolina","2023",7696
+"SD","South Dakota","1987",2632
+"SD","South Dakota","1988",8395
+"SD","South Dakota","1989",7786
+"SD","South Dakota","1990",8531
+"SD","South Dakota","1991",8422
+"SD","South Dakota","1992",9075
+"SD","South Dakota","1993",8443
+"SD","South Dakota","1994",5109
+"SD","South Dakota","1995",5422
+"SD","South Dakota","1996",5806
+"SD","South Dakota","1997",5141
+"SD","South Dakota","1998",5003
+"SD","South Dakota","1999",5061
+"SD","South Dakota","2000",4762
+"SD","South Dakota","2001",4350
+"SD","South Dakota","2002",3356
+"SD","South Dakota","2003",7443
+"SD","South Dakota","2004",9495
+"SD","South Dakota","2005",8695
+"SD","South Dakota","2006",11131
+"SD","South Dakota","2007",11814
+"SD","South Dakota","2008",9990
+"SD","South Dakota","2009",9083
+"SD","South Dakota","2010",12233
+"SD","South Dakota","2011",10858
+"SD","South Dakota","2012",11904
+"SD","South Dakota","2013",12204
+"SD","South Dakota","2014",11436
+"SD","South Dakota","2015",10020
+"SD","South Dakota","2016",7978
+"SD","South Dakota","2017",8330
+"SD","South Dakota","2018",11350
+"SD","South Dakota","2019",14116
+"SD","South Dakota","2020",11462
+"SD","South Dakota","2021",15645
+"SD","South Dakota","2022",12577
+"SD","South Dakota","2023",1819
+"TN","Tennessee","1987",37597
+"TN","Tennessee","1988",148555
+"TN","Tennessee","1989",142526
+"TN","Tennessee","1990",133146
+"TN","Tennessee","1991",134332
+"TN","Tennessee","1992",131140
+"TN","Tennessee","1993",123789
+"TN","Tennessee","1994",116508
+"TN","Tennessee","1995",112734
+"TN","Tennessee","1996",108612
+"TN","Tennessee","1997",111438
+"TN","Tennessee","1998",113356
+"TN","Tennessee","1999",114646
+"TN","Tennessee","2000",121424
+"TN","Tennessee","2001",119519
+"TN","Tennessee","2002",102780
+"TN","Tennessee","2003",123180
+"TN","Tennessee","2004",131737
+"TN","Tennessee","2005",130722
+"TN","Tennessee","2006",124094
+"TN","Tennessee","2007",165825
+"TN","Tennessee","2008",159187
+"TN","Tennessee","2009",148059
+"TN","Tennessee","2010",155452
+"TN","Tennessee","2011",119652
+"TN","Tennessee","2012",108039
+"TN","Tennessee","2013",112181
+"TN","Tennessee","2014",85480
+"TN","Tennessee","2015",82635
+"TN","Tennessee","2016",79769
+"TN","Tennessee","2017",81939
+"TN","Tennessee","2018",124851
+"TN","Tennessee","2019",138384
+"TN","Tennessee","2020",92571
+"TN","Tennessee","2021",113651
+"TN","Tennessee","2022",129583
+"TN","Tennessee","2023",21192
+"TT","U.S. Pacific Trust Territories and Possessions","1987",
+"TT","U.S. Pacific Trust Territories and Possessions","1988",
+"TT","U.S. Pacific Trust Territories and Possessions","1989",
+"TT","U.S. Pacific Trust Territories and Possessions","1990",4870
+"TT","U.S. Pacific Trust Territories and Possessions","1991",7136
+"TT","U.S. Pacific Trust Territories and Possessions","1992",6811
+"TT","U.S. Pacific Trust Territories and Possessions","1993",2022
+"TT","U.S. Pacific Trust Territories and Possessions","1994",7
+"TT","U.S. Pacific Trust Territories and Possessions","1995",105
+"TT","U.S. Pacific Trust Territories and Possessions","1996",44
+"TT","U.S. Pacific Trust Territories and Possessions","1997",1
+"TT","U.S. Pacific Trust Territories and Possessions","1998",
+"TT","U.S. Pacific Trust Territories and Possessions","1999",
+"TT","U.S. Pacific Trust Territories and Possessions","2000",
+"TT","U.S. Pacific Trust Territories and Possessions","2001",
+"TT","U.S. Pacific Trust Territories and Possessions","2002",
+"TT","U.S. Pacific Trust Territories and Possessions","2003",
+"TT","U.S. Pacific Trust Territories and Possessions","2004",
+"TT","U.S. Pacific Trust Territories and Possessions","2005",
+"TT","U.S. Pacific Trust Territories and Possessions","2006",
+"TT","U.S. Pacific Trust Territories and Possessions","2007",
+"TT","U.S. Pacific Trust Territories and Possessions","2008",
+"TT","U.S. Pacific Trust Territories and Possessions","2009",
+"TT","U.S. Pacific Trust Territories and Possessions","2010",10
+"TT","U.S. Pacific Trust Territories and Possessions","2011",375
+"TT","U.S. Pacific Trust Territories and Possessions","2012",369
+"TT","U.S. Pacific Trust Territories and Possessions","2013",473
+"TT","U.S. Pacific Trust Territories and Possessions","2014",479
+"TT","U.S. Pacific Trust Territories and Possessions","2015",481
+"TT","U.S. Pacific Trust Territories and Possessions","2016",489
+"TT","U.S. Pacific Trust Territories and Possessions","2017",484
+"TT","U.S. Pacific Trust Territories and Possessions","2018",990
+"TT","U.S. Pacific Trust Territories and Possessions","2019",1432
+"TT","U.S. Pacific Trust Territories and Possessions","2020",854
+"TT","U.S. Pacific Trust Territories and Possessions","2021",918
+"TT","U.S. Pacific Trust Territories and Possessions","2022",1211
+"TT","U.S. Pacific Trust Territories and Possessions","2023",196
+"TX","Texas","1987",128151
+"TX","Texas","1988",525356
+"TX","Texas","1989",536263
+"TX","Texas","1990",563067
+"TX","Texas","1991",560521
+"TX","Texas","1992",578061
+"TX","Texas","1993",594496
+"TX","Texas","1994",594778
+"TX","Texas","1995",629344
+"TX","Texas","1996",610297
+"TX","Texas","1997",609686
+"TX","Texas","1998",605362
+"TX","Texas","1999",616998
+"TX","Texas","2000",614620
+"TX","Texas","2001",709130
+"TX","Texas","2002",649771
+"TX","Texas","2003",793977
+"TX","Texas","2004",827379
+"TX","Texas","2005",797350
+"TX","Texas","2006",811370
+"TX","Texas","2007",792013
+"TX","Texas","2008",747740
+"TX","Texas","2009",701851
+"TX","Texas","2010",706506
+"TX","Texas","2011",683398
+"TX","Texas","2012",710707
+"TX","Texas","2013",745515
+"TX","Texas","2014",717767
+"TX","Texas","2015",688031
+"TX","Texas","2016",578440
+"TX","Texas","2017",557524
+"TX","Texas","2018",755525
+"TX","Texas","2019",803363
+"TX","Texas","2020",536265
+"TX","Texas","2021",667204
+"TX","Texas","2022",708498
+"TX","Texas","2023",106177
+"UT","Utah","1987",16515
+"UT","Utah","1988",67726
+"UT","Utah","1989",68696
+"UT","Utah","1990",69422
+"UT","Utah","1991",67977
+"UT","Utah","1992",68432
+"UT","Utah","1993",67692
+"UT","Utah","1994",69379
+"UT","Utah","1995",84064
+"UT","Utah","1996",88328
+"UT","Utah","1997",87660
+"UT","Utah","1998",85080
+"UT","Utah","1999",81920
+"UT","Utah","2000",80576
+"UT","Utah","2001",76455
+"UT","Utah","2002",70025
+"UT","Utah","2003",129818
+"UT","Utah","2004",142469
+"UT","Utah","2005",164776
+"UT","Utah","2006",146081
+"UT","Utah","2007",151435
+"UT","Utah","2008",143063
+"UT","Utah","2009",135258
+"UT","Utah","2010",127680
+"UT","Utah","2011",122076
+"UT","Utah","2012",112984
+"UT","Utah","2013",114999
+"UT","Utah","2014",112078
+"UT","Utah","2015",108975
+"UT","Utah","2016",111559
+"UT","Utah","2017",115389
+"UT","Utah","2018",118397
+"UT","Utah","2019",120701
+"UT","Utah","2020",97551
+"UT","Utah","2021",125907
+"UT","Utah","2022",115693
+"UT","Utah","2023",17997
+"VA","Virginia","1987",51031
+"VA","Virginia","1988",193046
+"VA","Virginia","1989",180982
+"VA","Virginia","1990",188691
+"VA","Virginia","1991",175313
+"VA","Virginia","1992",166398
+"VA","Virginia","1993",159037
+"VA","Virginia","1994",165865
+"VA","Virginia","1995",157809
+"VA","Virginia","1996",157241
+"VA","Virginia","1997",158778
+"VA","Virginia","1998",161767
+"VA","Virginia","1999",188227
+"VA","Virginia","2000",186866
+"VA","Virginia","2001",175816
+"VA","Virginia","2002",146418
+"VA","Virginia","2003",233528
+"VA","Virginia","2004",281637
+"VA","Virginia","2005",281824
+"VA","Virginia","2006",243327
+"VA","Virginia","2007",232165
+"VA","Virginia","2008",210687
+"VA","Virginia","2009",190921
+"VA","Virginia","2010",200500
+"VA","Virginia","2011",189166
+"VA","Virginia","2012",186267
+"VA","Virginia","2013",190256
+"VA","Virginia","2014",166312
+"VA","Virginia","2015",151508
+"VA","Virginia","2016",144985
+"VA","Virginia","2017",143041
+"VA","Virginia","2018",259653
+"VA","Virginia","2019",271033
+"VA","Virginia","2020",141471
+"VA","Virginia","2021",170501
+"VA","Virginia","2022",246003
+"VA","Virginia","2023",36356
+"VI","U.S. Virgin Islands","1987",
+"VI","U.S. Virgin Islands","1988",
+"VI","U.S. Virgin Islands","1989",
+"VI","U.S. Virgin Islands","1990",5070
+"VI","U.S. Virgin Islands","1991",5715
+"VI","U.S. Virgin Islands","1992",4863
+"VI","U.S. Virgin Islands","1993",5219
+"VI","U.S. Virgin Islands","1994",4428
+"VI","U.S. Virgin Islands","1995",4005
+"VI","U.S. Virgin Islands","1996",3029
+"VI","U.S. Virgin Islands","1997",3203
+"VI","U.S. Virgin Islands","1998",3199
+"VI","U.S. Virgin Islands","1999",3709
+"VI","U.S. Virgin Islands","2000",3501
+"VI","U.S. Virgin Islands","2001",4272
+"VI","U.S. Virgin Islands","2002",3896
+"VI","U.S. Virgin Islands","2003",3746
+"VI","U.S. Virgin Islands","2004",3700
+"VI","U.S. Virgin Islands","2005",3795
+"VI","U.S. Virgin Islands","2006",3439
+"VI","U.S. Virgin Islands","2007",3431
+"VI","U.S. Virgin Islands","2008",3408
+"VI","U.S. Virgin Islands","2009",3457
+"VI","U.S. Virgin Islands","2010",3477
+"VI","U.S. Virgin Islands","2011",3662
+"VI","U.S. Virgin Islands","2012",4682
+"VI","U.S. Virgin Islands","2013",4746
+"VI","U.S. Virgin Islands","2014",5123
+"VI","U.S. Virgin Islands","2015",5592
+"VI","U.S. Virgin Islands","2016",6117
+"VI","U.S. Virgin Islands","2017",5252
+"VI","U.S. Virgin Islands","2018",3658
+"VI","U.S. Virgin Islands","2019",4647
+"VI","U.S. Virgin Islands","2020",4352
+"VI","U.S. Virgin Islands","2021",8127
+"VI","U.S. Virgin Islands","2022",6602
+"VI","U.S. Virgin Islands","2023",1130
+"VT","Vermont","1987",1552
+"VT","Vermont","1988",6723
+"VT","Vermont","1989",6681
+"VT","Vermont","1990",6995
+"VT","Vermont","1991",6094
+"VT","Vermont","1992",5112
+"VT","Vermont","1993",3377
+"VT","Vermont","1994",3187
+"VT","Vermont","1995",3362
+"VT","Vermont","1996",3347
+"VT","Vermont","1997",2945
+"VT","Vermont","1998",2738
+"VT","Vermont","1999",2676
+"VT","Vermont","2000",2634
+"VT","Vermont","2001",4443
+"VT","Vermont","2002",3024
+"VT","Vermont","2003",7187
+"VT","Vermont","2004",8031
+"VT","Vermont","2005",8976
+"VT","Vermont","2006",6858
+"VT","Vermont","2007",7253
+"VT","Vermont","2008",7006
+"VT","Vermont","2009",6012
+"VT","Vermont","2010",6655
+"VT","Vermont","2011",4148
+"VT","Vermont","2012",3942
+"VT","Vermont","2013",5623
+"VT","Vermont","2014",4197
+"VT","Vermont","2015",3325
+"VT","Vermont","2016",4044
+"VT","Vermont","2017",3273
+"VT","Vermont","2018",9729
+"VT","Vermont","2019",9639
+"VT","Vermont","2020",4229
+"VT","Vermont","2021",4913
+"VT","Vermont","2022",8216
+"VT","Vermont","2023",1148
+"WA","Washington","1987",21133
+"WA","Washington","1988",85819
+"WA","Washington","1989",87608
+"WA","Washington","1990",92900
+"WA","Washington","1991",86612
+"WA","Washington","1992",85115
+"WA","Washington","1993",79508
+"WA","Washington","1994",84947
+"WA","Washington","1995",105703
+"WA","Washington","1996",112713
+"WA","Washington","1997",114517
+"WA","Washington","1998",113950
+"WA","Washington","1999",118132
+"WA","Washington","2000",119625
+"WA","Washington","2001",116294
+"WA","Washington","2002",113476
+"WA","Washington","2003",122268
+"WA","Washington","2004",127793
+"WA","Washington","2005",123853
+"WA","Washington","2006",124297
+"WA","Washington","2007",129008
+"WA","Washington","2008",127627
+"WA","Washington","2009",116963
+"WA","Washington","2010",116030
+"WA","Washington","2011",115839
+"WA","Washington","2012",114429
+"WA","Washington","2013",116356
+"WA","Washington","2014",121792
+"WA","Washington","2015",134982
+"WA","Washington","2016",147083
+"WA","Washington","2017",153370
+"WA","Washington","2018",157405
+"WA","Washington","2019",161339
+"WA","Washington","2020",116720
+"WA","Washington","2021",201479
+"WA","Washington","2022",210666
+"WA","Washington","2023",26389
+"WI","Wisconsin","1987",7525
+"WI","Wisconsin","1988",36193
+"WI","Wisconsin","1989",34877
+"WI","Wisconsin","1990",36288
+"WI","Wisconsin","1991",31520
+"WI","Wisconsin","1992",34896
+"WI","Wisconsin","1993",28437
+"WI","Wisconsin","1994",25297
+"WI","Wisconsin","1995",26056
+"WI","Wisconsin","1996",24901
+"WI","Wisconsin","1997",23537
+"WI","Wisconsin","1998",23073
+"WI","Wisconsin","1999",23049
+"WI","Wisconsin","2000",22729
+"WI","Wisconsin","2001",29950
+"WI","Wisconsin","2002",27817
+"WI","Wisconsin","2003",35980
+"WI","Wisconsin","2004",40359
+"WI","Wisconsin","2005",42756
+"WI","Wisconsin","2006",51362
+"WI","Wisconsin","2007",61078
+"WI","Wisconsin","2008",75233
+"WI","Wisconsin","2009",73960
+"WI","Wisconsin","2010",72467
+"WI","Wisconsin","2011",61828
+"WI","Wisconsin","2012",58781
+"WI","Wisconsin","2013",64653
+"WI","Wisconsin","2014",56307
+"WI","Wisconsin","2015",56071
+"WI","Wisconsin","2016",50508
+"WI","Wisconsin","2017",50879
+"WI","Wisconsin","2018",61158
+"WI","Wisconsin","2019",60788
+"WI","Wisconsin","2020",38821
+"WI","Wisconsin","2021",47883
+"WI","Wisconsin","2022",49087
+"WI","Wisconsin","2023",7079
+"WV","West Virginia","1987",1918
+"WV","West Virginia","1988",6974
+"WV","West Virginia","1989",6322
+"WV","West Virginia","1990",4940
+"WV","West Virginia","1991",4288
+"WV","West Virginia","1992",3851
+"WV","West Virginia","1993",3692
+"WV","West Virginia","1994",3738
+"WV","West Virginia","1995",2648
+"WV","West Virginia","1996",1738
+"WV","West Virginia","1997",1792
+"WV","West Virginia","1998",1725
+"WV","West Virginia","1999",1400
+"WV","West Virginia","2000",1228
+"WV","West Virginia","2001",903
+"WV","West Virginia","2002",
+"WV","West Virginia","2003",6836
+"WV","West Virginia","2004",6793
+"WV","West Virginia","2005",6524
+"WV","West Virginia","2006",4973
+"WV","West Virginia","2007",3959
+"WV","West Virginia","2008",3757
+"WV","West Virginia","2009",3839
+"WV","West Virginia","2010",5162
+"WV","West Virginia","2011",4073
+"WV","West Virginia","2012",4045
+"WV","West Virginia","2013",3694
+"WV","West Virginia","2014",3149
+"WV","West Virginia","2015",2610
+"WV","West Virginia","2016",2552
+"WV","West Virginia","2017",2125
+"WV","West Virginia","2018",6892
+"WV","West Virginia","2019",6732
+"WV","West Virginia","2020",4465
+"WV","West Virginia","2021",4882
+"WV","West Virginia","2022",4803
+"WV","West Virginia","2023",588
+"WY","Wyoming","1987",851
+"WY","Wyoming","1988",3057
+"WY","Wyoming","1989",2744
+"WY","Wyoming","1990",2786
+"WY","Wyoming","1991",2938
+"WY","Wyoming","1992",3260
+"WY","Wyoming","1993",3287
+"WY","Wyoming","1994",2031
+"WY","Wyoming","1995",1421
+"WY","Wyoming","1996",1551
+"WY","Wyoming","1997",1624
+"WY","Wyoming","1998",1599
+"WY","Wyoming","1999",809
+"WY","Wyoming","2000",863
+"WY","Wyoming","2001",819
+"WY","Wyoming","2002",1083
+"WY","Wyoming","2003",7092
+"WY","Wyoming","2004",7756
+"WY","Wyoming","2005",8063
+"WY","Wyoming","2006",8271
+"WY","Wyoming","2007",8739
+"WY","Wyoming","2008",9656
+"WY","Wyoming","2009",10120
+"WY","Wyoming","2010",10457
+"WY","Wyoming","2011",10300
+"WY","Wyoming","2012",10417
+"WY","Wyoming","2013",10456
+"WY","Wyoming","2014",10691
+"WY","Wyoming","2015",8739
+"WY","Wyoming","2016",8652
+"WY","Wyoming","2017",7549
+"WY","Wyoming","2018",8212
+"WY","Wyoming","2019",8738
+"WY","Wyoming","2020",8814
+"WY","Wyoming","2021",12555
+"WY","Wyoming","2022",10151
+"WY","Wyoming","2023",1844
+"All Rows","All rows (including those not displayed)","1987",1311826
+"All Rows","All rows (including those not displayed)","1988",5202096
+"All Rows","All rows (including those not displayed)","1989",5041200
+"All Rows","All rows (including those not displayed)","1990",5270893
+"All Rows","All rows (including those not displayed)","1991",5076925
+"All Rows","All rows (including those not displayed)","1992",5092157
+"All Rows","All rows (including those not displayed)","1993",5070501
+"All Rows","All rows (including those not displayed)","1994",5180048
+"All Rows","All rows (including those not displayed)","1995",5327435
+"All Rows","All rows (including those not displayed)","1996",5351983
+"All Rows","All rows (including those not displayed)","1997",5411843
+"All Rows","All rows (including those not displayed)","1998",5384721
+"All Rows","All rows (including those not displayed)","1999",5527884
+"All Rows","All rows (including those not displayed)","2000",5683047
+"All Rows","All rows (including those not displayed)","2001",5967780
+"All Rows","All rows (including those not displayed)","2002",5271359
+"All Rows","All rows (including those not displayed)","2003",6488540
+"All Rows","All rows (including those not displayed)","2004",7129270
+"All Rows","All rows (including those not displayed)","2005",7140596
+"All Rows","All rows (including those not displayed)","2006",7141922
+"All Rows","All rows (including those not displayed)","2007",7455458
+"All Rows","All rows (including those not displayed)","2008",7009726
+"All Rows","All rows (including those not displayed)","2009",6450285
+"All Rows","All rows (including those not displayed)","2010",6450117
+"All Rows","All rows (including those not displayed)","2011",6085281
+"All Rows","All rows (including those not displayed)","2012",6096762
+"All Rows","All rows (including those not displayed)","2013",6369482
+"All Rows","All rows (including those not displayed)","2014",5819811
+"All Rows","All rows (including those not displayed)","2015",5819079
+"All Rows","All rows (including those not displayed)","2016",5617658
+"All Rows","All rows (including those not displayed)","2017",5674621
+"All Rows","All rows (including those not displayed)","2018",7206195
+"All Rows","All rows (including those not displayed)","2019",7422037
+"All Rows","All rows (including those not displayed)","2020",4688354
+"All Rows","All rows (including those not displayed)","2021",5995397
+"All Rows","All rows (including those not displayed)","2022",6729125
+"All Rows","All rows (including those not displayed)","2023",1041586

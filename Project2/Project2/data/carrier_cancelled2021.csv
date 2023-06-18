@@ -1,0 +1,27 @@
+On-Time: Marketing Carrier On-Time Performance (Beginning January 2018)
+Sum : Cancelled Flight Indicator (1=Yes) by Operating_Airline  by Month for 2021
+,,1,2,3,4,5,6,7,8,9,10,11,12,All Columns
+,,January   ,February  ,March     ,April     ,May       ,June      ,July      ,August    ,September ,October   ,November  ,December  ,All Columns (including those not displayed)
+9E,Endeavor Air Inc.,23,524,0,0,1,38,112,66,80,0,15,115,974
+AA,American Airlines Inc.,258,2140,296,336,607,2400,1223,3551,759,3106,1347,455,16478
+AS,Alaska Airlines Inc.,75,689,229,131,36,247,119,120,127,191,237,1016,3217
+B6,JetBlue Airways,99,426,71,120,43,113,516,425,487,54,27,918,3299
+C5,CommuteAir LLC dba CommuteAir,130,867,24,47,62,210,328,300,202,83,11,225,2489
+DL,Delta Air Lines Inc.,92,868,150,347,7,12,63,113,295,35,14,1635,3631
+EM,Empire Airlines Inc.,0,-,-,-,-,-,-,-,-,-,-,-,0
+F9,Frontier Airlines Inc.,21,98,325,93,12,201,463,322,79,79,24,212,1929
+G4,Allegiant Air,277,443,87,146,23,278,820,570,50,333,153,649,3829
+G7,GoJet Airlines LLC d/b/a United Express,123,212,25,0,0,66,364,605,428,236,18,57,2134
+HA,Hawaiian Airlines Inc.,7,4,7,4,2,2,13,53,36,9,4,123,264
+MQ,Envoy Air,331,2233,227,127,472,352,217,875,135,474,58,185,5686
+NK,Spirit Air Lines,99,349,56,232,20,105,333,2923,316,249,108,871,5661
+OH,PSA Airlines Inc.,373,340,21,8,99,146,368,536,202,40,49,72,2254
+OO,SkyWest Airlines Inc.,583,2084,1499,125,233,503,761,1444,297,2430,278,3086,13323
+PT,Piedmont Airlines,85,360,42,25,43,145,157,191,132,55,3,85,1323
+QX,Horizon Air,122,656,110,100,86,212,125,131,42,30,46,436,2096
+UA,United Air Lines Inc.,162,1093,728,47,64,66,586,628,633,254,239,1607,6107
+WN,Southwest Airlines Co.,677,3840,1782,491,257,3250,1725,3595,2326,3972,490,1100,23505
+YV,Mesa Airlines Inc.,171,1506,117,87,229,309,407,464,160,299,276,738,4763
+YX,Republic Airline,271,1120,36,91,53,473,1276,1333,704,175,49,66,5647
+ZW,Air Wisconsin Airlines Corp,176,349,72,4,1,68,219,489,286,510,113,122,2409
+All Rows,All Rows (including those not displayed),4155,20201,5904,2561,2350,9196,10195,18734,7776,12614,3559,13773,111018
