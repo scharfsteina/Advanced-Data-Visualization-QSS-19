@@ -10,7 +10,7 @@ We learned in class that an excellent data visualization will satisfy the follow
 
 ### Assignment 1: 
 #### Visualization in the Wild. Find a bad visualization in the wild and try to improve it
-
+![Image](Project1-WIID/Project1/FuLdIdtaQAAWKWV.jpg)
 ![Image](Project1-WIID/Project1/static_plot.png)
 (This visualization is interactive and can be run in `Project1-WIID` folder)
 
