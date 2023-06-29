@@ -29,5 +29,5 @@ We learned in class that an excellent data visualization will satisfy the follow
 ### Other visualizations
 
 #### A Recreation of W.E.B. Dubois' “The Negro Problem”:
-![Image](Week2/original_dubois.jpg)
+![Image](Week2/dubois_original.jpg)
 ![Image](Week2/dubois.png)
