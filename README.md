@@ -2,7 +2,7 @@
 
 In Spring 2023, I took QSS 19: Advanced Data Visualization with Professor Robert Cooper. Below are the figures I produced for various assignments throughout the course. 
 
-We learned in class that an excellent data visualization will satisfy the following tenants, and I tried my very best to encompass each one in my assignments
+We learned in class that excellent data visualizations satisfy the following tenants, which guided me throughout these projects:
 - Accurate and Fitting
 - Revelatory
 - Reductive
