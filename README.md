@@ -10,9 +10,12 @@ We learned in class that excellent data visualizations satisfy the following ten
 
 ### Assignment 1: 
 #### Visualization in the Wild. Find a bad visualization in the wild and try to improve it
+
+The Original:
 ![Image](Project1-WIID/Project1/FuLdIdtaQAAWKWV.jpg)
+
+My Improved figure (This visualization is interactive and can be run in `Project1-WIID` folder):
 ![Image](Project1-WIID/Project1/static_plot.png)
-(This visualization is interactive and can be run in `Project1-WIID` folder)
 
 ### Assignment 2:
 #### Create two data visualizations with the same dataset showing different stories
