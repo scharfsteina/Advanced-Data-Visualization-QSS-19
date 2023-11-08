@@ -25,6 +25,7 @@ My Improved figure (This visualization is interactive and can be run in `Project
 
 ### Assignment 3:
 #### Do anything you want
+You can find my project referenced [here](https://qss.dartmouth.edu/news/2023/09/look-back-first-iteration-qss-19-advanced-data-visualization) on the Quantitative Social Science department website!
 
 ![Image](Project3/Project3/final.png)
 
